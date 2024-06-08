@@ -3,3 +3,6 @@
 /run/
 /build/
 gradle.properties
+.idea/*
+.gradle/*
+*.log
